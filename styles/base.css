@@ -1,0 +1,22 @@
+
+header {
+    display: flex;
+    background-color: brown;
+    padding: 20px;
+    text-align: center;
+  justify-content: space-evenly;
+
+}
+nav ul li {
+  display: inline;
+  justify-content: space-evenly;
+}
+main {
+    display: block;
+    background-color: lightgoldenrodyellow;
+    width: max;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 5%vw;
+    margin: 0;
+    padding: 10px;
+}
